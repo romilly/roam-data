@@ -25,8 +25,8 @@ class PageTestCase(unittest.TestCase):
         with open('data/20211215/test01.json') as pip:
             export = json.load(pip)
             graph = Graph.from_json(export)
-            assert_that(len(graph.pages), equal_to(8))
-            assert_that(len(graph.uids), equal_to(28))
+            assert_that(len(graph.pages), equal_to(10))
+            assert_that(len(graph.uids), equal_to(49))
 
 
 if __name__ == '__main__':

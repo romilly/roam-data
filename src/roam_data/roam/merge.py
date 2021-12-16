@@ -1,9 +1,9 @@
 from typing import List
 
-from pip.roam.graph import Block
+from roam_data.roam.graph import Block
 
 
-def merge_retros(rb: List[Block]) -> List[List[Block]]:
+def merge_retros(rb: List[Block]):
     rr = [[],[],[]]
     for retro in rb:
         for i in range(3):
