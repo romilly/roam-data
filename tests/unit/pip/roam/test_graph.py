@@ -21,12 +21,17 @@ class PageTestCase(unittest.TestCase):
         assert_that(page, instance_of(OrdinaryPage))
         assert_that(page.title, equal_to('weekly plan'))
 
-    def test_page_can_convert_export(self):
+    def test_graph_can_convert_export(self):
         with open('data/20211215/test01.json') as pip:
             export = json.load(pip)
             graph = Graph.from_json(export)
             assert_that(len(graph.pages), equal_to(10))
             assert_that(len(graph.uids), equal_to(49))
+
+    def test_entry_shows_helpful_repr(self):
+        page = Page.from_json(json.loads(page_01))
+        assert_that(repr(page), equal_to('DailyNotesPage(September 27th, 2020)'))
+
 
 
 if __name__ == '__main__':

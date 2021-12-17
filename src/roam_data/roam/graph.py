@@ -1,5 +1,5 @@
 import json
-from abc import ABC
+from abc import ABC, abstractmethod
 from datetime import datetime
 from typing import List
 
@@ -44,6 +44,12 @@ class Entry(ABC):
             children = []
         return children
 
+    @abstractmethod
+    def text(self): # pragma: no cover
+        pass
+
+    def __repr__(self):
+        return '%s(%s)' % (self.__class__.__name__, self.text())
 
     @classmethod
     def get_time(cls, json, key):
@@ -53,12 +59,16 @@ class Entry(ABC):
         return result
 
     def insert(self, json: dict) -> 'Entry':
-        ct = self.get_time(json, 'create-time')
         self.edit_time = self.get_time(json, 'edit-time')
-        if ct:
-            self.create_time = ct
+        # if self is a DailyNotesPage create_time will have been set
+        # if not, look for a create-time item in json.
+        # if that doesn't exist, use the edit-time
         if self.create_time is None:
-            self.create_time = self.edit_time
+            ct = self.get_time(json, 'create-time')
+            if ct:
+                self.create_time = ct
+            else:
+                self.create_time = self.edit_time
         self.children = self.convert_children(json)
         return self
 
@@ -67,6 +77,9 @@ class Page(Entry, ABC):
     def __init__(self, title: str):
         Entry.__init__(self)
         self.title = title
+
+    def text(self):
+        return self.title
 
     @classmethod
     def from_json(cls, json) -> 'Page':
@@ -99,8 +112,9 @@ class Block(Entry):
         self.uid = uid
         self.uids = {uid: self}
 
-    def __repr__(self):
-        return 'Block(%s, %s)' % (self.string, self.uid)
+    def text(self):
+        return self.string
+
 
     @classmethod
     def from_json(cls, json):
