@@ -12,7 +12,7 @@ def append_block_to_markdown(block: Block, doc: MarkdownDocument, level=0):
 
 def retro_blocks_to_markdown(rr: List[Block]):
     doc = MarkdownDocument()
-    headings = ['[WW]',['WDNW'],'WDD']
+    headings = ['[WW]','[WDNW]','[WDD]']
     for (i, heading) in enumerate(headings):
         doc.append_heading(heading)
         for block in rr[i]:
