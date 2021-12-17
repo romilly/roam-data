@@ -1,0 +1,1244 @@
+[
+  {
+    "create-time": 1639579847603,
+    "title": "Romilly Cocking",
+    "uid": "yzvJegM0S",
+    "edit-time": 1639579847603,
+    ":create/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    },
+    ":edit/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    }
+  },
+  {
+    "create-time": 1639579847605,
+    "title": "December 15th, 2021",
+    ":create/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    },
+    "children": [
+      {
+        "string": "Test with retro section",
+        "create-time": 1639579904299,
+        "uid": "2yQ09yaQl",
+        "edit-time": 1639579916840,
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      },
+      {
+        "edit-time": 1639579916834,
+        "children": [
+          {
+            "string": "**WW** - What worked?",
+            "create-time": 1639580476156,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "children": [
+              {
+                "string": "local graph",
+                "create-time": 1639580549092,
+                "uid": "fB2xSxmtS",
+                "edit-time": 1639580554862,
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              }
+            ],
+            "uid": "IJ8qbqTah",
+            "edit-time": 1639580476156,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "**WDNW** What did not work?",
+            "create-time": 1639580476156,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "children": [
+              {
+                "string": "copying the tag didn't copy the linked items",
+                "create-time": 1639580556896,
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                "children": [
+                  {
+                    "string": "surprise, surprise",
+                    "create-time": 1639580578831,
+                    "uid": "HouIHsMAk",
+                    "edit-time": 1639580590288,
+                    ":create/user": {
+                      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                    }
+                  }
+                ],
+                "uid": "UVnSlqTAf",
+                "edit-time": 1639580578835,
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              }
+            ],
+            "uid": "uP5d57M5y",
+            "edit-time": 1639580476156,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "**WDD** What will I do differently?",
+            "create-time": 1639580476156,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "children": [
+              {
+                "string": "copy the right thing!",
+                "create-time": 1639580592425,
+                "uid": "fD1_kyTq0",
+                "edit-time": 1639580599010,
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              }
+            ],
+            "uid": "R17J-YUlV",
+            "edit-time": 1639580476156,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "#[[ideas queue]]",
+            "create-time": 1639580476156,
+            ":block/refs": [
+              {
+                ":block/uid": "sZeZpbH9m"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "sZeZpbH9m"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "uid": "KpxdQcZ_K",
+            "edit-time": 1639580476156,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "#fridge",
+            "create-time": 1639580476156,
+            ":block/refs": [
+              {
+                ":block/uid": "5WQSaUW0d"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "5WQSaUW0d"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "uid": "v2qPDQ3La",
+            "edit-time": 1639580476156,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Feelings",
+            "create-time": 1639580476156,
+            "uid": "TuOz86EDr",
+            "edit-time": 1639580476156,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Discoveries",
+            "create-time": 1639580476156,
+            "uid": "GTpLYXxJI",
+            "edit-time": 1639580476156,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Gratitudes",
+            "create-time": 1639580476156,
+            "uid": "l5_y11YAa",
+            "edit-time": 1639580476156,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Savour",
+            "create-time": 1639580476156,
+            "uid": "5nJpuhK0Q",
+            "edit-time": 1639580476156,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "q5VXv6kYZ"
+          }
+        ],
+        "uid": "iQMdesbHJ",
+        ":block/refs": [
+          {
+            ":block/uid": "q5VXv6kYZ"
+          }
+        ],
+        "string": "[[Retrospective]]",
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        "create-time": 1639579916834,
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      }
+    ],
+    "uid": "12-15-2021",
+    "edit-time": 1639579847606,
+    ":edit/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    }
+  },
+  {
+    "create-time": 1634745667692,
+    "title": "roam/templates",
+    "uid": "Wk1gO-OgM",
+    "edit-time": 1634745667711,
+    ":create/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    },
+    ":edit/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    }
+  },
+  {
+    "create-time": 1601271203924,
+    "title": "Retrospective",
+    ":create/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    },
+    "children": [
+      {
+        "edit-time": 1634829045721,
+        "children": [
+          {
+            "edit-time": 1601271203920,
+            "children": [
+              {
+                "string": "**WW** - What worked?",
+                "create-time": 1601271203901,
+                "uid": "S5rbItmPr",
+                "edit-time": 1601271282312,
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              },
+              {
+                "string": "**WDNW** What did not work?",
+                "create-time": 1601271218469,
+                "uid": "VeQLeq602",
+                "edit-time": 1601271288135,
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              },
+              {
+                "string": "**WDD** What will I do differently?",
+                "create-time": 1601271225661,
+                "uid": "6I9fGLmyb",
+                "edit-time": 1601271278570,
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              },
+              {
+                "string": "#[[ideas queue]]",
+                "create-time": 1601271291738,
+                ":block/refs": [
+                  {
+                    ":block/uid": "sZeZpbH9m"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "sZeZpbH9m"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                "uid": "PLa9_fBlM",
+                "edit-time": 1636804386003,
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              },
+              {
+                "string": "#fridge",
+                "create-time": 1601271306157,
+                ":block/refs": [
+                  {
+                    ":block/uid": "5WQSaUW0d"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "5WQSaUW0d"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                "uid": "MraI24sFJ",
+                "edit-time": 1601570890223,
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              },
+              {
+                "string": "Feelings",
+                "create-time": 1601271308779,
+                "uid": "VkM8DN9mu",
+                "edit-time": 1601271311698,
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              },
+              {
+                "string": "Discoveries",
+                "create-time": 1601272529629,
+                "uid": "D622-x4jv",
+                "edit-time": 1601272534703,
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              },
+              {
+                "string": "Gratitudes",
+                "create-time": 1634745705238,
+                "uid": "gmZtY-PQ6",
+                "edit-time": 1634829158646,
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              },
+              {
+                "string": "Savour",
+                "create-time": 1635231479756,
+                "uid": "EQssL8CiB",
+                "edit-time": 1635231484940,
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "q5VXv6kYZ"
+              }
+            ],
+            "uid": "WhYMkBypF",
+            ":block/refs": [
+              {
+                ":block/uid": "q5VXv6kYZ"
+              }
+            ],
+            "string": "[[Retrospective]]",
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "create-time": 1601271151088,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Wk1gO-OgM"
+          }
+        ],
+        "uid": "hrX1KyK2D",
+        ":block/refs": [
+          {
+            ":block/uid": "Wk1gO-OgM"
+          }
+        ],
+        "string": "retro #roam/templates",
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        "create-time": 1634829045721,
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      }
+    ],
+    "uid": "q5VXv6kYZ",
+    "edit-time": 1601271203926,
+    ":edit/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    }
+  },
+  {
+    "create-time": 1639580459715,
+    "title": "fridge",
+    "uid": "5WQSaUW0d",
+    ":create/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    }
+  },
+  {
+    "create-time": 1639580459726,
+    "title": "ideas queue",
+    "uid": "sZeZpbH9m",
+    ":create/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    }
+  },
+  {
+    "create-time": 1639580639444,
+    "title": "Test Page One",
+    ":create/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    },
+    "children": [
+      {
+        "string": "Stuff",
+        "create-time": 1639580641104,
+        "uid": "XXl-9_WGh",
+        "edit-time": 1639580644374,
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      }
+    ],
+    "uid": "09omkp9CB",
+    "edit-time": 1639580639444,
+    ":edit/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    }
+  },
+  {
+    "create-time": 1639580650995,
+    "title": "Test Page Two",
+    ":create/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    },
+    "children": [
+      {
+        "string": "more stuff",
+        "create-time": 1639580651959,
+        "uid": "I7oM4vZAp",
+        "edit-time": 1639580655485,
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      }
+    ],
+    "uid": "n_bzxPVER",
+    "edit-time": 1639580650995,
+    ":edit/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    }
+  },
+  {
+    "create-time": 1639588554658,
+    "title": "Plus retro one",
+    ":create/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    },
+    "children": [
+      {
+        "string": "Page with retro!",
+        "create-time": 1639588556187,
+        "uid": "Z6nEtu2aa",
+        "edit-time": 1639588566585,
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      },
+      {
+        "edit-time": 1639588566623,
+        "children": [
+          {
+            "string": "**WW** - What worked?",
+            "create-time": 1639588569139,
+            "uid": "q2ZBmDtD-",
+            "edit-time": 1639588569139,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "**WDNW** What did not work?",
+            "create-time": 1639588569139,
+            "uid": "fYH6gAqQm",
+            "edit-time": 1639588569139,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "**WDD** What will I do differently?",
+            "create-time": 1639588569139,
+            "uid": "V7fH0qidq",
+            "edit-time": 1639588569139,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "#[[ideas queue]]",
+            "create-time": 1639588569139,
+            ":block/refs": [
+              {
+                ":block/uid": "sZeZpbH9m"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "sZeZpbH9m"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "uid": "rwqB1J1G0",
+            "edit-time": 1639588569139,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "#fridge",
+            "create-time": 1639588569139,
+            ":block/refs": [
+              {
+                ":block/uid": "5WQSaUW0d"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "5WQSaUW0d"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "uid": "WRsG9S-gU",
+            "edit-time": 1639588569139,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Feelings",
+            "create-time": 1639588569139,
+            "uid": "DluZCYBNm",
+            "edit-time": 1639588569139,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Discoveries",
+            "create-time": 1639588569139,
+            "uid": "IetAypp7e",
+            "edit-time": 1639588569139,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Gratitudes",
+            "create-time": 1639588569139,
+            "uid": "AYrr-Gl2I",
+            "edit-time": 1639588569139,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Savour",
+            "create-time": 1639588569139,
+            "uid": "K60RjFqt3",
+            "edit-time": 1639588569139,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "q5VXv6kYZ"
+          }
+        ],
+        "uid": "quoC0tbe5",
+        ":block/refs": [
+          {
+            ":block/uid": "q5VXv6kYZ"
+          }
+        ],
+        "string": "[[Retrospective]]",
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        "create-time": 1639588566623,
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      }
+    ],
+    "uid": "eMocu_oul",
+    "edit-time": 1639588554658,
+    ":edit/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    }
+  },
+  {
+    "create-time": 1639588582834,
+    "title": "Plage retro 2",
+    ":create/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    },
+    "children": [
+      {
+        "edit-time": 1639588584465,
+        "children": [
+          {
+            "string": "**WW** - What worked?",
+            "create-time": 1639588589183,
+            "uid": "t-5lyOhcd",
+            "edit-time": 1639588589183,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "**WDNW** What did not work?",
+            "create-time": 1639588589183,
+            "uid": "KBmM6EgHo",
+            "edit-time": 1639588589183,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "**WDD** What will I do differently?",
+            "create-time": 1639588589183,
+            "uid": "LXwmtF7I6",
+            "edit-time": 1639588589183,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "#[[ideas queue]]",
+            "create-time": 1639588589183,
+            ":block/refs": [
+              {
+                ":block/uid": "sZeZpbH9m"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "sZeZpbH9m"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "uid": "7yHQqgmd8",
+            "edit-time": 1639588589183,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "#fridge",
+            "create-time": 1639588589183,
+            ":block/refs": [
+              {
+                ":block/uid": "5WQSaUW0d"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "5WQSaUW0d"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "uid": "vdhn_SUsc",
+            "edit-time": 1639588589183,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Feelings",
+            "create-time": 1639588589183,
+            "uid": "1UvRR3tEu",
+            "edit-time": 1639588589183,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Discoveries",
+            "create-time": 1639588589183,
+            "uid": "XshFsXEZg",
+            "edit-time": 1639588589183,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Gratitudes",
+            "create-time": 1639588589183,
+            "uid": "TGfD4bqM8",
+            "edit-time": 1639588589183,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Savour",
+            "create-time": 1639588589183,
+            "uid": "G8yDK8hAq",
+            "edit-time": 1639588589183,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "q5VXv6kYZ"
+          }
+        ],
+        "uid": "z26HdwkDC",
+        ":block/refs": [
+          {
+            ":block/uid": "q5VXv6kYZ"
+          }
+        ],
+        "string": "[[Retrospective]]",
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        "create-time": 1639588584465,
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      }
+    ],
+    "uid": "KavmugoRv",
+    "edit-time": 1639588582834,
+    ":edit/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    }
+  },
+  {
+    "create-time": 1639653709309,
+    "title": "December 16th, 2021",
+    ":create/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    },
+    "children": [
+      {
+        "string": "More stuff",
+        "create-time": 1639653710650,
+        "uid": "FGo0J6_2g",
+        "edit-time": 1639653715352,
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      },
+      {
+        "edit-time": 1639653715597,
+        "children": [
+          {
+            "string": "**WW** - What worked?",
+            "create-time": 1639653718517,
+            "uid": "S1ZEBtQmY",
+            "edit-time": 1639653718517,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "**WDNW** What did not work?",
+            "create-time": 1639653718517,
+            "uid": "Mpwolw5XL",
+            "edit-time": 1639653718517,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "**WDD** What will I do differently?",
+            "create-time": 1639653718517,
+            "uid": "S0R5MYI5K",
+            "edit-time": 1639653718517,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "#[[ideas queue]]",
+            "create-time": 1639653718517,
+            ":block/refs": [
+              {
+                ":block/uid": "sZeZpbH9m"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "sZeZpbH9m"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "uid": "1QwAj975a",
+            "edit-time": 1639653718517,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "#fridge",
+            "create-time": 1639653718517,
+            ":block/refs": [
+              {
+                ":block/uid": "5WQSaUW0d"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "5WQSaUW0d"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "uid": "I3MZyWNVp",
+            "edit-time": 1639653718517,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Feelings",
+            "create-time": 1639653718517,
+            "uid": "TWWB41RBJ",
+            "edit-time": 1639653718517,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Discoveries",
+            "create-time": 1639653718517,
+            "uid": "m2guujow9",
+            "edit-time": 1639653718517,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Gratitudes",
+            "create-time": 1639653718517,
+            "uid": "pb8Bpr6O_",
+            "edit-time": 1639653718517,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Savour",
+            "create-time": 1639653718517,
+            "uid": "SwQLJnLQz",
+            "edit-time": 1639653718517,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "q5VXv6kYZ"
+          }
+        ],
+        "uid": "elfTLyhja",
+        ":block/refs": [
+          {
+            ":block/uid": "q5VXv6kYZ"
+          }
+        ],
+        "string": "[[Retrospective]]",
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        "create-time": 1639653715597,
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      },
+      {
+        "string": "good-oh!",
+        "create-time": 1639653719168,
+        "uid": "AvYhtJU3H",
+        "edit-time": 1639653730896,
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      }
+    ],
+    "uid": "12-16-2021",
+    "edit-time": 1639653709309,
+    ":edit/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    }
+  },
+  {
+    "create-time": 1639730370361,
+    "title": "December 17th, 2021",
+    ":create/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    },
+    "children": [
+      {
+        "string": "Yet another testy day!",
+        "create-time": 1639730372931,
+        "uid": "tG5sk23-L",
+        "edit-time": 1639730396114,
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      },
+      {
+        "edit-time": 1639730396390,
+        "children": [
+          {
+            "string": "**WW** - What worked?",
+            "create-time": 1639730398676,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "children": [
+              {
+                "string": "My memory",
+                "create-time": 1639730419379,
+                "uid": "n8UgLnQCF",
+                "edit-time": 1639730424170,
+                ":create/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                },
+                ":edit/user": {
+                  ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+                }
+              }
+            ],
+            "uid": "o8xg2Veag",
+            "edit-time": 1639730398676,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "**WDNW** What did not work?",
+            "create-time": 1639730398676,
+            "uid": "SWtV4TQgD",
+            "edit-time": 1639730398676,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "**WDD** What will I do differently?",
+            "create-time": 1639730398676,
+            "uid": "mr-4Q9eYh",
+            "edit-time": 1639730398676,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "#[[ideas queue]]",
+            "create-time": 1639730398676,
+            ":block/refs": [
+              {
+                ":block/uid": "sZeZpbH9m"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "sZeZpbH9m"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "uid": "wJnajBFSo",
+            "edit-time": 1639730398676,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "#fridge",
+            "create-time": 1639730398676,
+            ":block/refs": [
+              {
+                ":block/uid": "5WQSaUW0d"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "5WQSaUW0d"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            "uid": "7crje8ZZv",
+            "edit-time": 1639730398676,
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Feelings",
+            "create-time": 1639730398676,
+            "uid": "ZdvyzQ-v5",
+            "edit-time": 1639730398676,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Discoveries",
+            "create-time": 1639730398676,
+            "uid": "H5w-fs292",
+            "edit-time": 1639730398676,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Gratitudes",
+            "create-time": 1639730398676,
+            "uid": "QvM4kPd3F",
+            "edit-time": 1639730398676,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          },
+          {
+            "string": "Savour",
+            "create-time": 1639730398676,
+            "uid": "gUgTdmOOR",
+            "edit-time": 1639730398676,
+            ":create/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            },
+            ":edit/user": {
+              ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "q5VXv6kYZ"
+          }
+        ],
+        "uid": "spLfXjIju",
+        ":block/refs": [
+          {
+            ":block/uid": "q5VXv6kYZ"
+          }
+        ],
+        "string": "[[Retrospective]]",
+        ":create/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        },
+        "create-time": 1639730396390,
+        ":edit/user": {
+          ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+        }
+      }
+    ],
+    "uid": "12-17-2021",
+    "edit-time": 1639730370361,
+    ":edit/user": {
+      ":user/uid": "bJ05H16TZ4TabNcXxS8np1jI43o2"
+    }
+  }
+]

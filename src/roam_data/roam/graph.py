@@ -53,8 +53,12 @@ class Entry(ABC):
         return result
 
     def insert(self, json: dict) -> 'Entry':
-        self.create_time = self.get_time(json, 'create-time'),
-        self.edit_time = self.get_time(json, 'edit-time'),
+        ct = self.get_time(json, 'create-time')
+        self.edit_time = self.get_time(json, 'edit-time')
+        if ct:
+            self.create_time = ct
+        if self.create_time is None:
+            self.create_time = self.edit_time
         self.children = self.convert_children(json)
         return self
 

@@ -5,6 +5,7 @@ from markdown_builder.document import MarkdownDocument
 
 # TODO: Handle block refs - string is '((<uid>))''
 
+
 def merge_retros(rb: List[Block]):
     rr = [[],[],[]]
     for retro in rb:
