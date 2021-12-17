@@ -6,3 +6,6 @@ Here's a plot showing hom many posts I made in my main Roam graph for each day, 
 that date.
 
 ![Roam entries by date](docs/images/roam-posts.png)
+
+The massive peak is the day that [Readwise](https://readwise.io/) imported lots of book highlights from my kindle 
+account.
