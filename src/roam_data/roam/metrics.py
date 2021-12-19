@@ -8,6 +8,8 @@ import csv
 from roam_data.roam.graph import Graph
 from collections import defaultdict
 
+# TODO: add tests
+
 
 def get_metrics_for(graph_file_name: str, csv_file_name: str):
     graph= Graph.from_file(graph_file_name)
