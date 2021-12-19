@@ -11,6 +11,7 @@ def append_entry_to_markdown(entry: Entry, doc: MarkdownDocument, level=0):
 
 # TODO: move this back to pip, along with the retro stuff in filter-entries
 
+
 def retro_blocks_to_markdown(rr: List[Block]):
     doc = MarkdownDocument()
     headings = ['[WW]','[WDNW]','[WDD]']
